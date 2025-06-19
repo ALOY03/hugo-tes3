@@ -1,0 +1,7 @@
+baseURL = "https://github.com/ALOY03/hugo-tes3"
+languageCode = "en-us"
+title = "My Hugo Site"
+
+[module]
+  [[module.imports]]
+    path = "github.com/devcows/hugo-universal-theme"
