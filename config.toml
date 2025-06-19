@@ -1,4 +1,7 @@
 baseURL = "https://hugo-tes3.netlify.app/"
 languageCode = "en-us"
 title = "hugo tes 3"
-theme = "hugo-universal-theme"  # sesuaikan dengan nama folder tema di /themes
+[module]
+  [[module.imports]]
+    path = "github.com/devcows/hugo-universal-theme"
+
