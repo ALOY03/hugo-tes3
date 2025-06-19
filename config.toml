@@ -1,0 +1,4 @@
+baseURL = "https://hugo-tes3.netlify.app/"
+languageCode = "en-us"
+title = "hugo tes 3"
+theme = "nama-theme"  # sesuaikan dengan nama folder tema di /themes
